@@ -1,3 +1,3 @@
 # test
-its my first repository
-this is my firstly created repository 
+its my first repository.
+this is my first commit
